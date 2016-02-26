@@ -1,2 +1,2 @@
-# mastering-react
-Mastering React sample application
+
+React sample application
